@@ -13,14 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cerpen Jadi.md",
+                "file": "cerpen seni budaya/Cerpen Senbud kerangka.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a11c48b58a026634",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PKN/Kritis untuk hak dan kewajiban warga negara.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "356ad5c16752546b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PKN/Kritis untuk hak dan kewajiban warga negara.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "stacked": true
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 200
   },
   "right": {
     "id": "94b21da563d22850",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cerpen Jadi.md",
+                "file": "PKN/Kritis untuk hak dan kewajiban warga negara.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cerpen Jadi.md",
+                "file": "PKN/Kritis untuk hak dan kewajiban warga negara.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cerpen Jadi.md"
+                "file": "PKN/Kritis untuk hak dan kewajiban warga negara.md"
               }
             }
           },
@@ -155,8 +179,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b15170382502d214",
+  "active": "9c7b82bc780270dc",
   "lastOpenFiles": [
+    "PKN/Kritis untuk hak dan kewajiban warga negara.md",
     "cerpen seni budaya/Cerpen Senbud kerangka.md",
     "Cerpen Jadi.md",
     "Untitled.canvas",
