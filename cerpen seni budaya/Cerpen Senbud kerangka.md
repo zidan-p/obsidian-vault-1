@@ -49,7 +49,7 @@ kali ini tukirin benar-benar bingung, ragu, takut ,tegang dan perasaan kurang me
 
 memecah pikiran rumit tukirin, orang itu berkata, "aku bisa memberikan tawaran seharga 2 ekor kambing untuk ayamu, jarang ada yang mau menawar ayam terbaikpun dengan 2 ekor kambing. tapi hanya bisa aku lakukan sekarang.aku sedang tergesa-gesa kembali ke desa"
 
-akhirnya setelah berpikir lebih dalam tukirin mendapatkan keputusan. ia akan menjual kambingnya kepada orang itu. transaksipun dilakukan, orang itu memberika uang senilai dengan yang ia tawarkan, sedang kan tukirin memberikan kambing yang ia tuntun. 
+akhirnya setelah berpikir lebih dalam, tukirin mendapatkan keputusan. ia akan menjual kambingnya kepada orang itu. transaksipun dilakukan, orang itu memberika uang senilai dengan yang ia tawarkan, sedang kan tukirin memberikan kambing yang ia tuntun. 
 
 sementara tukirin menyerahkan kambing itu dengan penuh perelaan, orang itu menerima kambing itu dengan senyuman jahat. 
 

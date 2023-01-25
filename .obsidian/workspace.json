@@ -4,47 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d69157ca69d4808d",
+        "id": "b5ff26305946ce7d",
         "type": "tabs",
         "children": [
           {
-            "id": "a40205e72ad16ff6",
+            "id": "2ee070c0177dc84d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cerpen seni budaya/Cerpen Senbud kerangka.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a11c48b58a026634",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PKN/Kritis untuk hak dan kewajiban warga negara.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "356ad5c16752546b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PKN/Kritis untuk hak dan kewajiban warga negara.md",
+                "file": "TOEFL/Daftar Belajar TOEFL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -90,11 +66,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "94b21da563d22850",
@@ -110,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PKN/Kritis untuk hak dan kewajiban warga negara.md",
+                "file": "TOEFL/Daftar Belajar TOEFL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PKN/Kritis untuk hak dan kewajiban warga negara.md",
+                "file": "TOEFL/Daftar Belajar TOEFL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PKN/Kritis untuk hak dan kewajiban warga negara.md"
+                "file": "TOEFL/Daftar Belajar TOEFL.md"
               }
             }
           },
@@ -179,11 +157,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c7b82bc780270dc",
+  "active": "2ee070c0177dc84d",
   "lastOpenFiles": [
-    "PKN/Kritis untuk hak dan kewajiban warga negara.md",
+    "TOEFL/Daftar Belajar TOEFL.md",
     "cerpen seni budaya/Cerpen Senbud kerangka.md",
-    "Cerpen Jadi.md",
+    "cerpen seni budaya/Cerpen Jadi.md",
+    "PKN/Kritis untuk hak dan kewajiban warga negara.md",
     "Untitled.canvas",
     "2023-01-17.md",
     "presentasi aplikasi gagal/Potensi dan Pengembangan Aplikasi.md"
