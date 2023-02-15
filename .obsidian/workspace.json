@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b5ff26305946ce7d",
+        "id": "ee5c28f896f9a5e3",
         "type": "tabs",
         "children": [
           {
-            "id": "2ee070c0177dc84d",
+            "id": "420f4be75a4c71bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOEFL/Daftar Belajar TOEFL.md",
+                "file": "script interview bahasa inggris/Script interview bahassa inggris.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOEFL/Daftar Belajar TOEFL.md",
+                "file": "script interview bahasa inggris/Script interview bahassa inggris.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOEFL/Daftar Belajar TOEFL.md",
+                "file": "script interview bahasa inggris/Script interview bahassa inggris.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOEFL/Daftar Belajar TOEFL.md"
+                "file": "script interview bahasa inggris/Script interview bahassa inggris.md"
               }
             }
           },
@@ -145,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ee070c0177dc84d",
+  "active": "420f4be75a4c71bf",
   "lastOpenFiles": [
+    "artikel/Programing Library.md",
     "TOEFL/Daftar Belajar TOEFL.md",
     "cerpen seni budaya/Cerpen Senbud kerangka.md",
     "cerpen seni budaya/Cerpen Jadi.md",
